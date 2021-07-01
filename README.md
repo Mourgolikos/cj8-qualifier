@@ -1,3 +1,7 @@
+----
+This repository of mine contains my qualified solution to the challenge
+----
+----
 # Summer Code Jam 2021: Qualifier
 
 To qualify for the upcoming Summer Code Jam, you'll have to complete a qualifier assignment. In this assignment you have
